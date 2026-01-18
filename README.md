@@ -29,3 +29,6 @@ This project was my first hands-on experience working with EEG/ERP data and anal
 
 This is a learning-focused project rather than a polished analysis pipeline.
 Materials are shared for transparency and educational purposes.
+
+A high-level overview of the replication process and outcomes is available in
+[`notes/replication_overview.md`](notes/replication_overview.md).
